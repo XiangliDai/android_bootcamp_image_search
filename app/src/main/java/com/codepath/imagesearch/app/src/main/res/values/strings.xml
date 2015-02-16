@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Google Image Search</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_display">Full Image</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="advanced_filters">Advanced Filters</string>
+    
+    <string name="image_type_label">Image Type</string>
+    <string-array name="image_type_arrays">
+        <item>any</item>
+        <item>jpg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>bmp</item>
+    </string-array>
+
+    <string name="color_filter_label">Color Filter</string>
+    <string-array name="color_filter_arrays">
+        <item>any</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string name="image_size_label">Image Size</string>
+    <string-array name="image_size_arrays">
+        <item>any</item>
+        <item>icon</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+    </string-array>
+
+    <string name="site_filter_label">Site Filter</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_fragment_dialog">FragmentDialogActivity</string>
+
+    <string name="search">Search Image</string>
+    <string name="loading">Loading data...</string>
+    <string name="email_subject">Share an image</string>
+    <string name="sample_email">shaundai88@gmail.com</string>
+    <string name="email_type">plain/text</string>
+    <string name="no_internet_message">Internet is not available now, please try again later</string>
+</resources>
