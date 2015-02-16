@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.codepath.googleimagesearch.R;
+import com.codepath.imagesearch.R;
 import com.codepath.imagesearch.utils.DeviceDimensionsHelper;
 import com.squareup.picasso.Picasso;
 

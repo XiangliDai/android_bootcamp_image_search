@@ -3,7 +3,7 @@ package com.codepath.imagesearch.net;
 import android.content.Context;
 import android.util.Log;
 
-import com.codepath.googleimagesearch.R;
+import com.codepath.imagesearch.R;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
 

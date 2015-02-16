@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 
-import com.codepath.googleimagesearch.R;
+import com.codepath.imagesearch.R;
 import com.codepath.imagesearch.models.ImageResult;
 import com.etsy.android.grid.util.DynamicHeightImageView;
 import com.etsy.android.grid.util.DynamicHeightTextView;

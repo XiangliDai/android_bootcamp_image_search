@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 
-import com.codepath.googleimagesearch.R;
+import com.codepath.imagesearch.R;
 import com.codepath.imagesearch.models.SearchFilter;
 
 public class SearchFilterDialog extends DialogFragment {

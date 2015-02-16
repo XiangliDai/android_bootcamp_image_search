@@ -20,7 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.codepath.imagesearch.EndlessScrollListener;
-import com.codepath.googleimagesearch.R;
+import com.codepath.imagesearch.R;
 import com.codepath.imagesearch.adapters.ImageResultsAdapter;
 import com.codepath.imagesearch.models.ImageResult;
 import com.codepath.imagesearch.models.SearchFilter;

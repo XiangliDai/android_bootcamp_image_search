@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="column_count">3</integer>
-    <integer name="page_size">8</integer>
-    <integer name="max_page">9</integer>
-</resources>
